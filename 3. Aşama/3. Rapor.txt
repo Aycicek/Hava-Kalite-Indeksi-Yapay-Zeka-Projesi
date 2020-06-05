@@ -1,0 +1,2 @@
+Bu raporda verinin boş alanlarını KNN ile doldurdum,
+İstatistiksel bilgileri gösterdim.
